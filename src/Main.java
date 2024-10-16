@@ -54,6 +54,7 @@ public class Main {
         } else { System.out.println("Доставки нет");
         }
 
+        System.out.println("Задание 5");
 
      int monthNumber = 12;
      switch (monthNumber) {
